@@ -42,8 +42,8 @@ and:
 
 `git rebase --continue`
 
-The rebase completed successfully, and we then ran `git push` to upload
-the resolved changes to GitHub.
+The rebase completed successfully after resolving the conflict, and we
+then ran `git push` to upload the resolved changes to GitHub.
 
 ## Git Contribution Summary 
 7  Steven
