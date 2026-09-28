@@ -67,4 +67,4 @@ Committing saves a snapshot of staged changes into your local Git repository on 
   
 **How do fixtures reduce duplicated setup code in tests?**
 
-Fixtures provide a centralized, reusable setup function that automatically initializes and supplies pre-configured objects or state to test functions, eliminating the need to repeatedly write setup code across multiple test cases. 
+Fixtures provide a centralized, reusable setup function that automatically initializes and supplies pre-configured objects or state to test functions, eliminating the need to repeatedly write setup code across multiple test cases. This makes the tests shorter and easier to maintain.
