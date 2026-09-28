@@ -63,7 +63,7 @@ Git could not resolve the conflict automatically because two contributors modifi
 **What is the difference between committing and pushing?**
 
 Committing saves a snapshot of staged changes into your local Git repository on your machine, while pushing uploads those local commits to the remote GitHub repository so team members can view and access them. 
-  
+
 **How do fixtures reduce duplicated setup code in tests?**
 
 Fixtures provide a centralized, reusable setup function that automatically initializes and supplies pre-configured objects or state to test functions, eliminating the need to repeatedly write setup code across multiple test cases. This makes the tests shorter and easier to maintain.
