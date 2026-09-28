@@ -47,7 +47,6 @@ the resolved changes to GitHub.
 
 ## Git Contribution Summary 
 7  Steven
-6  6805140016-htoo
 6  Hnin Inzali
 5  Chu Myat Sandi Tun
 4  Henry
