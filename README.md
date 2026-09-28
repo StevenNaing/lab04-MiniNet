@@ -6,7 +6,7 @@
 | Hnin Inzali | Inzali30 | test_withdraw.py |
 | Chu Myat Sandi Tun | Chumyat | test_teardown.py |
 | Tanvir Ali | 6805140002-Tanvir | test_shared.py |
-| Htoo Eain Lwin @ Henry | 6805140016-htoo | conftest.py |
+| Htoo Eain Lwin | 6805140016-htoo | conftest.py |
 
 ## Our Merge Conflict
 
