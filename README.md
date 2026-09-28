@@ -31,8 +31,7 @@ Another team member had also modified the same section of `README.md`.
 Git could not automatically combine the changes because both versions
 modified the same part of the file.
 
-We resolved the conflict manually by keeping the required rows for all
-team members and removing the conflict markers.
+We resolved the conflict manually by keeping all required team-member rows in the final README and removing the conflict markers.
 
 After resolving the conflict, we ran:
 
@@ -47,10 +46,11 @@ then ran `git push` to upload the resolved changes to GitHub.
 
 ## Git Contribution Summary 
 7  Steven
+6  6805140016-htoo
+6  Henry
 6  Hnin Inzali
 5  Chu Myat Sandi Tun
-4  Henry
-1  Tanvir Ali
+4  Tanvir Ali
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
