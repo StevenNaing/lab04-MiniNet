@@ -46,6 +46,12 @@ The rebase completed successfully, and we then ran `git push` to upload
 the resolved changes to GitHub.
 
 ## Git Contribution Summary 
+7  Steven
+6  6805140016-htoo
+6  Hnin Inzali
+5  Chu Myat Sandi Tun
+4  Henry
+1  Tanvir Ali
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
