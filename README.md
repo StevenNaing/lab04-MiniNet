@@ -1,12 +1,53 @@
 # lab04-MiniNet
-# Who Did What 
+## Who Did What 
+| Member | GitHub Username | File |
+|---|---|---|
 | Steven Naing | StevenNaing | test_deposit.py |
 | Hnin Inzali | Inzali30 | test_withdraw.py |
 | Chu Myat Sandi Tun | Chumyat | test_teardown.py |
 | Tanvir Ali | 6805140002-Tanvir | test_shared.py |
 | Htoo Eain Lwin @ Henry | 6805140016@siam.edu | conftest.py |
 
-Reflection Questions
+## Our Merge Conflict
+
+We encountered two related Git issues while working on our team repository.
+
+First, our `git push` was rejected because another team member had
+already pushed new commits to GitHub. Our local branch was therefore
+behind the remote branch, so Git required us to get the latest changes
+before pushing our own changes.
+
+We then used:
+
+`git pull --rebase`
+
+During the rebase, we encountered a merge conflict in `README.md`
+while working on the Who Did What table. My local changes included my
+row:
+
+| Hnin Inzali | Inzali30 | test_withdraw.py |
+
+Another team member had also modified the same section of `README.md`.
+Git could not automatically combine the changes because both versions
+modified the same part of the file.
+
+We resolved the conflict manually by keeping the required rows for all
+team members and removing the conflict markers.
+
+After resolving the conflict, we ran:
+
+`git add README.md`
+
+and:
+
+`git rebase --continue`
+
+The rebase completed successfully, and we then ran `git push` to upload
+the resolved changes to GitHub.
+
+## Git Contribution Summary 
+
+## Reflection Questions
 Why was your push rejected, and how did you fix it?
 The push was rejected because another team member had already pushed new commits to GitHub, making our local branch out of date. We resolved this by executing git pull to fetch and integrate the latest changes before running git push again.   
 
