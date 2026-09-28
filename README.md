@@ -1,7 +1,9 @@
 # lab04-MiniNet
+# Who Did What 
 | Steven | 6805140018@siam.edu | test_deposit.py |
-| B |
+| Hnin Inzali | Inzali30 | test_withdraw.py |
 | Chu Myat Sandi Tun | Chumyat | 6805140003@siam.edu | test_teardown.py |
+| C |
 | D |
 | Htoo Eain Lwin @ Henry | 6805140016@siam.edu | conftest.py |
 
