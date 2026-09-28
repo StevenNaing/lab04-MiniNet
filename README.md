@@ -5,6 +5,7 @@
 | D |
 | Htoo Eain Lwin @ Henry | 6805140016@siam.edu | conftest.py |
 
+Reflection Questions
 Why was your push rejected, and how did you fix it?
 The push was rejected because another team member had already pushed new commits to GitHub, making our local branch out of date. We resolved this by executing git pull to fetch and integrate the latest changes before running git push again.   
 
