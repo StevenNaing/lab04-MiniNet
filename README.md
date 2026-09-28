@@ -3,8 +3,7 @@
 | Steven | 6805140018@siam.edu | test_deposit.py |
 | Hnin Inzali | Inzali30 | test_withdraw.py |
 | Chu Myat Sandi Tun | Chumyat | 6805140003@siam.edu | test_teardown.py |
-| C |
-| D |
+| Tanvir Ali | 6805140002-Tanvir | test_shared.py |
 | Htoo Eain Lwin @ Henry | 6805140016@siam.edu | conftest.py |
 
 Reflection Questions
