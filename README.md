@@ -1,6 +1,6 @@
 # lab04-MiniNet
 # Who Did What 
-| Steven | 6805140018@siam.edu | test_deposit.py |
+| Steven Naing | StevenNaing | test_deposit.py |
 | Hnin Inzali | Inzali30 | test_withdraw.py |
 | Chu Myat Sandi Tun | Chumyat | test_teardown.py |
 | Tanvir Ali | 6805140002-Tanvir | test_shared.py |
