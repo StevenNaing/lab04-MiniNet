@@ -46,10 +46,10 @@ then ran `git push` to upload the resolved changes to GitHub.
 
 ## Git Contribution Summary 
     12  Henry
+     8  Hnin Inzali
      7  Steven
-     6  Hnin Inzali
+     6  Tanvir Ali
      5  Chu Myat Sandi Tun
-     5  Tanvir Ali
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
